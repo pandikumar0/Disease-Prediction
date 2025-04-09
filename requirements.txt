@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+lime
+google-genai 
+python-dotenv
+pickle
+matplotlib
